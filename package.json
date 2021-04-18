@@ -1,5 +1,5 @@
 {
-  "name": "@candyswap/candy-swap-core",
+  "name": "@candyswap-libs/candy-swap-core",
   "description": "🎛 Core contracts for the candy protocol",
   "version": "0.1.0",
   "homepage": "https://candyswap.finance",
